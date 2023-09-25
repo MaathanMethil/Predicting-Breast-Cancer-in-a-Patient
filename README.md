@@ -1,6 +1,6 @@
 # Predicting-Breast-Cancer-in-a-Patient
 
-GUVI Project Work 1:
+*GUVI Project Work 1:
 Abstract: Breast cancer represents one of the diseases that make a high number of deaths every year. 
 It is the most common type of all cancers and the main cause of women's deaths worldwide. 
 Classification and data mining methods are an effective way to classify data. 
